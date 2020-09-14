@@ -1,4 +1,4 @@
-# Automation Coding Task
+# Automation Coding Tasks
 
 > Coding solution for "Bridge and Flashlight problem"
 
