@@ -1,7 +1,22 @@
 # Automation Coding Task
 
 > Coding solution for "Bridge and Flashlight problem"
-> Java/Maven/WebDriver/TestNG solution for Google/Gmail
+
+> Selenium Test Automation Task to Implement:
+
+1.	Create public repository in GitHub.
+2.	Create Maven Java Project.
+3.	Create Gmail Test Account.
+4.	Implement Flow #1:
+    - Navigate to gmail.com page.
+    - Login using valid credentials.
+    - Verify success login by user profile icon in top right corner.
+    - (Please add in a negative test or two)
+5.	Implement Flow #2:
+    - Navigate to ebay.com page.
+    - earch for “Electric Guitar”.
+    - Open First Result and output item price to console.
+6.	Push the Tests to a GitHub repository and please provide the URL.
 
 ### Prerequisites
 
